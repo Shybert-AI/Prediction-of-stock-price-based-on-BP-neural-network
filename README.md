@@ -1,7 +1,13 @@
 #  基于BP神经网络的股票价格预测
 通过BP神经网络对明尼亚波利斯春小麦期货的收盘价进行了预测，准确的预测出收盘价的变动。  
 BP神经网络中采用优化器ADAM、学习率变化策略Warmup和余弦退化技术，可以有效的解决训练时间太长的的问题。  
-采用Dropout机制可以有效的提升模型预测的准确率和鲁棒性。  
+采用Dropout机制可以有效的提升模型预测的准确率和鲁棒性。
+<p align="center">  
+### 学习率采用warmup和CosineAnnealingLR效果图
+</p>  
+
+![image](https://user-images.githubusercontent.com/82042336/198598120-c84a906a-c283-45fe-b24a-dc4828b20beb.png)
+
 #  论文
 #### 第1章  绪论  
 #### 第2章  股票预测理论和方法  
