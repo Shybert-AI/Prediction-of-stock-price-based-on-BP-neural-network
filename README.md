@@ -3,7 +3,7 @@
 BP神经网络中采用优化器ADAM、学习率变化策略Warmup和余弦退化技术，可以有效的解决训练时间太长的的问题。  
 采用Dropout机制可以有效的提升模型预测的准确率和鲁棒性。
 <p align="center">  
-### 学习率采用warmup和CosineAnnealingLR效果图
+学习率采用warmup和CosineAnnealingLR效果图
 </p>  
 
 ![image](https://user-images.githubusercontent.com/82042336/198598120-c84a906a-c283-45fe-b24a-dc4828b20beb.png)
