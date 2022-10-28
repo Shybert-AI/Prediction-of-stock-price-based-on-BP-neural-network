@@ -4,7 +4,8 @@
 
 ![image](https://user-images.githubusercontent.com/82042336/198598120-c84a906a-c283-45fe-b24a-dc4828b20beb.png)
 
-#  论文
+#  论文  [基于BP神经网络的股票价格预测.docx](https://github.com/Shybert-AI/Prediction-of-stock-price-based-on-BP-neural-network/files/9888680/BP.docx)
+
 #### 第1章  绪论  
 #### 第2章  股票预测理论和方法  
 #### 第3章  BP神经网络  
