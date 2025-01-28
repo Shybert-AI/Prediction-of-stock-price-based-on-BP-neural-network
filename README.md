@@ -1,5 +1,9 @@
 #  基于BP神经网络的股票价格预测
-
+![python version](https://img.shields.io/badge/python-3.8+-orange.svg)
+![GitHub forks](https://img.shields.io/github/forks/Shybert-AI/Prediction-of-stock-price-based-on-BP-neural-network)
+![GitHub Repo stars](https://img.shields.io/github/stars/Shybert-AI/Prediction-of-stock-price-based-on-BP-neural-network)
+![GitHub](https://img.shields.io/github/license/Shybert-AI/Prediction-of-stock-price-based-on-BP-neural-network)
+![支持系统](https://img.shields.io/badge/支持系统-Win/Linux/MAC-9cf)
 <br>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;通过BP神经网络对明尼亚波利斯春小麦期货的收盘价进行了预测，准确的预测出收盘价的变动。  神经网络中采用优化器ADAM、学习率变化策略Warmup和余弦退化技术，可以有效的解决训练时间太长的的问题。采用Dropout机制可以有效的提升模型预测的准确率和鲁棒性。最终的效果图为：  
