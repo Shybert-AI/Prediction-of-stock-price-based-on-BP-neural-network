@@ -41,3 +41,7 @@
 #### 致    谢  
 #### 附录A  外文原文  
 #### 附录B  外文原文  
+
+## ⭐ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Shybert-AI/Prediction-of-stock-price-based-on-BP-neural-network&type=Date)](https://star-history.com/#Shybert-AI/Prediction-of-stock-price-based-on-BP-neural-network&Date)
